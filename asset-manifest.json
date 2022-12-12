@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/digital-inc/static/css/main.937edc84.chunk.css",
+    "main.js": "/digital-inc/static/js/main.53396d52.chunk.js",
+    "main.js.map": "/digital-inc/static/js/main.53396d52.chunk.js.map",
+    "runtime-main.js": "/digital-inc/static/js/runtime-main.472a8286.js",
+    "runtime-main.js.map": "/digital-inc/static/js/runtime-main.472a8286.js.map",
+    "static/js/2.2262d232.chunk.js": "/digital-inc/static/js/2.2262d232.chunk.js",
+    "static/js/2.2262d232.chunk.js.map": "/digital-inc/static/js/2.2262d232.chunk.js.map",
+    "index.html": "/digital-inc/index.html",
+    "static/css/main.937edc84.chunk.css.map": "/digital-inc/static/css/main.937edc84.chunk.css.map",
+    "static/js/2.2262d232.chunk.js.LICENSE.txt": "/digital-inc/static/js/2.2262d232.chunk.js.LICENSE.txt",
+    "static/media/Story.css": "/digital-inc/static/media/about-hero.8a047e93.jpg",
+    "static/media/dope-1.1b3d848e.jpeg": "/digital-inc/static/media/dope-1.1b3d848e.jpeg",
+    "static/media/dope-2.06c9d739.jpeg": "/digital-inc/static/media/dope-2.06c9d739.jpeg",
+    "static/media/dope-3.09169da9.jpg": "/digital-inc/static/media/dope-3.09169da9.jpg",
+    "static/media/dope-4.80ceabdc.jpg": "/digital-inc/static/media/dope-4.80ceabdc.jpg",
+    "static/media/dope-5.343d33ff.jpg": "/digital-inc/static/media/dope-5.343d33ff.jpg",
+    "static/media/dope-6.a87b3c61.jpg": "/digital-inc/static/media/dope-6.a87b3c61.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.472a8286.js",
+    "static/js/2.2262d232.chunk.js",
+    "static/css/main.937edc84.chunk.css",
+    "static/js/main.53396d52.chunk.js"
+  ]
+}
